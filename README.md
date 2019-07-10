@@ -2,4 +2,4 @@
 
 React useModel hooks bases on useReducer
 
-[useModel](https://www.npmjs.com/package/tkit-model)
+[详细文档 useModel](https://www.npmjs.com/package/tkit-model)
